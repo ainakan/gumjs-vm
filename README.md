@@ -1,3 +1,3 @@
-# @frida/vm
+# @ainakan/vm
 
-Frida-optimized ESM fork of https://github.com/browserify/vm-browserify.
+Ainakan-optimized ESM fork of https://github.com/browserify/vm-browserify.
